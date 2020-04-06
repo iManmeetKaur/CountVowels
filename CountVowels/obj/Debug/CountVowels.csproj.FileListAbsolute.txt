@@ -1,0 +1,7 @@
+C:\Users\Manmeet Kaur Baxi\source\repos\CountVowels\CountVowels\bin\Debug\CountVowels.exe.config
+C:\Users\Manmeet Kaur Baxi\source\repos\CountVowels\CountVowels\bin\Debug\CountVowels.exe
+C:\Users\Manmeet Kaur Baxi\source\repos\CountVowels\CountVowels\bin\Debug\CountVowels.pdb
+C:\Users\Manmeet Kaur Baxi\source\repos\CountVowels\CountVowels\obj\Debug\CountVowels.csprojAssemblyReference.cache
+C:\Users\Manmeet Kaur Baxi\source\repos\CountVowels\CountVowels\obj\Debug\CountVowels.csproj.CoreCompileInputs.cache
+C:\Users\Manmeet Kaur Baxi\source\repos\CountVowels\CountVowels\obj\Debug\CountVowels.exe
+C:\Users\Manmeet Kaur Baxi\source\repos\CountVowels\CountVowels\obj\Debug\CountVowels.pdb
